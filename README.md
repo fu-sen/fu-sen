@@ -171,7 +171,7 @@ ___
 
 ___
 
-<p align=center
+<p align=center>
   <small>
     <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
   </small>
