@@ -1,4 +1,4 @@
-<h1 align="center">🎈😍</h2>
+<h1 align="center">🎈😍</h1>
 
 <!--
 Don't have your language?
@@ -121,15 +121,51 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 
 ___
 
+<h2 align="center">🎵 Share music to you</h2>
+
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=EOzNZCLYPkQ">
+    <img src="http://img.youtube.com/vi/EOzNZCLYPkQ/0.jpg"><br>
+    Harusaki Kobeni / Double U<br>
+    春咲小紅 / W (ダブルユー)</a>
+</p>
+
+<p align="center">
+  But I'm crazy about <a href="https://www.nasa.gov/nasalive">NASA TV (Nasa Live)</a> 🌎🚀😆
+</p>
+
+___
+
+<h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
+
+<p align="center">
+  Yes. My real name is <strong>志賀 慶一 Keiichi Shiga</strong>.
+  but I am active in 🎈, so I made this an Organization:
+</p>
+
+<p align="center">
+  <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga</a> / 
+  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
+</p>
+
+___
+
+<h2 align="center">🌏 GitHub Page</h2>
+
+<p align="center">
+As you know, `README.md` is an `index` on GitHub Pages.
+</p>
+
 <p align="center">
 <a href="https://balloon.vg/fu-sen/">https://balloon.vg/fu-sen/</a> / 
 <a href="https://github.com/fu-sen/fu-sen">https://github.com/fu-sen/fu-sen</a>
 </p>
 
+___
+
 <p align="center">
-  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> / 
-  <a href="https://balloon.im/"><strong>ふうせん🎈 FU-SEN</strong></a> /
-  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
+  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> in 🗾 / 
+  <a href="https://balloon.im/"><strong>ふうせん🎈 FU-SEN</strong></a> 日本語<br>
 </p>
 
 ___
