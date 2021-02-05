@@ -144,10 +144,9 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://keiichi-shiga.ovh">✒ 志賀 慶一 Keiichi Shiga ブログ Japanese Blog</a><br>
-  <a href="https://keiichi-shiga.com">🏡 志賀 慶一 Keiichi Shiga 複合コンテンツ Composite</a><br>
   <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga GitHub Organization</a><br>
-  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga Facebook</a> - ✉ You can use Messager
+  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga Facebook</a> - ✉ You can use Messager<br>
+  <a href="https://keiichi.pw/">💻 志賀 慶一 Keiichi Shiga</a> - 総合リンク Website List<br>
 </p>
 
 ___
