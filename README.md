@@ -121,14 +121,21 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 
 ___
 
-<https://balloon.vg/fu-sen/>\
-<https://github.com/fu-sen/fu-sen>
+<p align="center">
+<a href="https://balloon.vg/fu-sen/">https://balloon.vg/fu-sen/</a> / 
+<a href="https://github.com/fu-sen/fu-sen">https://github.com/fu-sen/fu-sen</a>
+</p>
 
-[**🎈 BALLOON | FU-SEN**](https://balloon.cm/) / 
-[**ふうせん🎈 FU-SEN**](https://balloon.im/) /
-<a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
+<p align="center">
+  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> / 
+  <a href="https://balloon.im/"><strong>ふうせん🎈 FU-SEN</strong></a> /
+  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
+</p>
 
 ___
 
-<small>
-  <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
+<p align=center
+  <small>
+    <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
+  </small>
+</p>
