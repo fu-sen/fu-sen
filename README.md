@@ -1,4 +1,4 @@
-<h2 style="text-align: center; text-size: 150px;">🎈😍</h2>
+<h2 style="text-align: center; font-size: 150px;">🎈😍</h2>
 
 <!--
 Don't have your language?
