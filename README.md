@@ -139,13 +139,15 @@ ___
 <h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
 
 <p align="center">
-  Yes. My real name is <strong>志賀 慶一 Keiichi Shiga</strong>.
+  My real name is <strong>志賀 慶一 Keiichi Shiga</strong>.
   but I am active in 🎈, so I made this an Organization:
 </p>
 
 <p align="center">
-  <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga</a> / 
-  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
+  <a href="https://keiichi-shiga.ovh">✒ 志賀 慶一 Keiichi Shiga ブログ Japanese Blog</a><br>
+  <a href="https://keiichi-shiga.com">🏡 志賀 慶一 Keiichi Shiga 複合コンテンツ Composite</a><br>
+  <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga GitHub Organization</a><br>
+  <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga Facebook</a> - ✉ You can use Messager
 </p>
 
 ___
@@ -153,18 +155,18 @@ ___
 <h2 align="center">🌏 GitHub Page</h2>
 
 <p align="center">
-As you know, `README.md` is an `index` on GitHub Pages.
+  As you know, <code>README.md</code> is an <code>index</code> on GitHub Pages.
 </p>
 
 <p align="center">
-<a href="https://balloon.vg/fu-sen/">https://balloon.vg/fu-sen/</a> / 
+<a href="https://balloon.vg/fu-sen/">https://balloon.vg/fu-sen/</a> - 
 <a href="https://github.com/fu-sen/fu-sen">https://github.com/fu-sen/fu-sen</a>
 </p>
 
 ___
 
 <p align="center">
-  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> in 🗾 / 
+  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> in 🗾 - 
   <a href="https://balloon.im/"><strong>ふうせん🎈 FU-SEN</strong></a> 日本語<br>
 </p>
 
