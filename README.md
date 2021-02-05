@@ -1,4 +1,4 @@
-## 🎈😍
+<h2 style="text-align: center; text-size: 150px;">🎈😍</h2>
 
 <!--
 Don't have your language?
@@ -121,13 +121,10 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 
 ___
 
-<https://balloon.vg/fu-sen/>\
-<https://github.com/fu-sen/fu-sen>
-
-[Twemoji](https://twemoji.twitter.com/): Graphics licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[**🎈 BALLOON | FU-SEN**](https://balloon.cm/) /
+[**ふうせん🎈 FU-SEN**](https://balloon.im/) / 
+[<img height="1em" width="1em" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" /> 志賀 慶一 Keiichi Shiga](https://www.facebook.com/keiichishiga)
 
 ___
 
-[**🎈 BALLOON | FU-SEN**](https://balloon.cm/) - from 🗾 to 🌏\
-[**ふうせん🎈 FU-SEN**](https://balloon.im/) - 日本語 Japanese\
-[志賀 慶一 Keiichi Shiga](https://www.facebook.com/keiichishiga) - Facebook
+[Twemoji](https://twemoji.twitter.com/): Graphics licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Social preview
