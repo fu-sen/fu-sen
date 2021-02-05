@@ -1,4 +1,4 @@
-<h2 align="center">🎈😍</h2>
+<h1 align="center">🎈😍</h2>
 
 <!--
 Don't have your language?
@@ -124,12 +124,11 @@ ___
 <https://balloon.vg/fu-sen/>\
 <https://github.com/fu-sen/fu-sen>
 
-[**🎈 BALLOON | FU-SEN**](https://balloon.cm/) - from 🗾 to 🌏\
-[**ふうせん🎈 FU-SEN**](https://balloon.im/) - 日本語 Japanese\
-[志賀 慶一 Keiichi Shiga](https://www.facebook.com/keiichishiga) - Facebook
+[**🎈 BALLOON | FU-SEN**](https://balloon.cm/) / 
+[**ふうせん🎈 FU-SEN**](https://balloon.im/) /
+<a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga</a>
 
 ___
 
 <small>
-[Twemoji](https://twemoji.twitter.com/): Graphics licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Social preview
-</small>
+  <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
