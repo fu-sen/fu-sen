@@ -124,10 +124,10 @@ ___
 <h2 align="center">🎵 Share music to you</h2>
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=EOzNZCLYPkQ">
-    <img src="http://img.youtube.com/vi/EOzNZCLYPkQ/0.jpg"><br>
-    Harusaki Kobeni / Double U<br>
-    春咲小紅 / W (ダブルユー)</a>
+  <a href="http://www.youtube.com/watch?v=POgiXZOkd2k">
+    <img src="http://img.youtube.com/vi/POgiXZOkd2k/0.jpg"><br>
+    <strong>Ai ga nakucha ne / Akiko Yano</strong><br>
+    <strong>愛がなくちゃね / 矢野顕子)</strong></a>
 </p>
 
 <p align="center">
