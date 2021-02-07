@@ -146,7 +146,7 @@ ___
 <p align="center">
   <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga GitHub Organization</a><br>
   <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga Facebook</a> - ✉ You can use Messager<br>
-  <a href="https://keiichi-shiga.ovh/">💻 志賀 慶一 Keiichi Shiga</a> - 総合リンク Website List<br>
+  <a href="https://keiichi-shiga.ovh/">💻 志賀 慶一 Keiichi Shiga</a><br>
 </p>
 
 ___
