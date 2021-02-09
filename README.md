@@ -124,10 +124,10 @@ ___
 <h2 align="center">🎵 Share music to you</h2>
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=ZDUS04dtMu8">
-    <img src="http://img.youtube.com/vi/ZDUS04dtMu8/0.jpg"><br>
-    <strong>Tiger Rampage (feat. Rin Kagamine) / sasakure.UK </strong><br>
-    <strong>タイガーランペイジ (feat. 鏡音リン) / sasakure.UK </strong></a>
+  <a href="http://www.youtube.com/POgiXZOkd2k">
+    <img src="http://img.youtube.com/vi/POgiXZOkd2k/0.jpg"><br>
+    <strong>Ai ga nakuchane / Akiko Yano</strong><br>
+    <strong>愛がなくちゃね / 矢野顕子</strong></a>
 </p>
 
 <p align="center">
