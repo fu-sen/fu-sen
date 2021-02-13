@@ -165,7 +165,7 @@ ___
 ___
 
 <p align="center">
-  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> in 🗾 - 
+  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> from 🗾 to 🌏 - 
   <a href="https://balloon.asia/"><strong>ふうせん🎈 FU-SEN</strong></a> 日本語<br>
 </p>
 
