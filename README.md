@@ -1,10 +1,3 @@
-2021年2月13日23時8分ごろ、福島県・宮城県で大きな地震がありました。\
-ふうせん🎈 FU-SEN は宮城県所在ですが、無事をご報告いたします。\
-23:08 on February 13, 2021 (Japan time), there was a big earthquake centered on the Tohoku region of Japan.\
-🎈 BALLOON | FU-SEN is located in the suburbs of Sendai City, Miyagi Pref., but it is safe.
-
-___
-
 <h1 align="center">🎈😍</h1>
 
 <!--
