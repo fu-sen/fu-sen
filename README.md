@@ -126,7 +126,7 @@ ___
 <p align="center">
   <a href="https://www.youtube.com/watch?v=c4kZ40AHN7I">
     <img src="http://img.youtube.com/vi/c4kZ40AHN7I/0.jpg"><br>
-    <strong>Denwa Sen (telephone wire) / Akiko Yano</strong><br>
+    <strong>Denwa Sen (telephone line) / Akiko Yano</strong><br>
     <strong>電話線 / 矢野顕子</strong></a>
 </p>
 
