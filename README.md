@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> - 💻 日本語 Japanese
+</p>
+
+___
+
 <h1 align="center">🎈😍</h1>
 
 <!--
@@ -136,6 +142,16 @@ ___
 
 ___
 
+<h2 align="center">🌏 Related links other than GitHub</h2>
+
+<p align="center">
+  <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">☎️ BALLON BBS</a> telnet BBS<br>
+  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> BALLOON ふうせん FU-SEN<br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">✉️ Contact</a><br>
+</p>
+
+___
+
 <h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
 
 <p align="center">
@@ -151,7 +167,7 @@ ___
 
 ___
 
-<h2 align="center">🌏 GitHub Page</h2>
+<h2 align="center">🐙 GitHub Page</h2>
 
 <p align="center">
   As you know, <code>README.md</code> is an <code>index</code> on GitHub Pages.
@@ -165,7 +181,7 @@ ___
 ___
 
 <p align="center">
-  <a href="https://balloon.cm/"><strong>🎈 BALLOON | FU-SEN</strong></a> from 🗾 to 🌏 - 
+  <a href="https://github.com/fu-sen"><strong>🎈 BALLOON | FU-SEN</strong></a> from 🗾 to 🌏 - 
   <a href="https://balloon.asia/"><strong>ふうせん🎈 FU-SEN</strong></a> 日本語<br>
 </p>
 
