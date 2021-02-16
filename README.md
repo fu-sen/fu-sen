@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> - 💻 日本語 Japanese
+  <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> 日本語 Japanese
 </p>
 
 ___
