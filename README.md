@@ -182,7 +182,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/fu-sen"><strong>🎈 BALLOON | FU-SEN</strong></a> from 🗾 to 🌏<br>
-  <a href="https://balloon.asia/"><strong>ふうせん🎈 FU-SEN</strong></a> 日本語 Japanese<br>
+  <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> 日本語 Japanese<br>
 </p>
 
 ___
