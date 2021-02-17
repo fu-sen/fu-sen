@@ -2,6 +2,12 @@
   <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> 日本語 Japanese
 </p>
 
+<p align="center">
+  <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">☎️ BALLON BBS</a> telnet BBS<br>
+  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> BALLOON ふうせん FU-SEN<br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">✉️ Contact</a><br>
+</p>
+
 ___
 
 <h1 align="center">🎈😍</h1>
@@ -142,16 +148,6 @@ ___
 
 ___
 
-<h2 align="center">🌏 Related links other than GitHub</h2>
-
-<p align="center">
-  <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">☎️ BALLON BBS</a> telnet BBS<br>
-  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> BALLOON ふうせん FU-SEN<br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">✉️ Contact</a><br>
-</p>
-
-___
-
 <h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
 
 <p align="center">
@@ -163,26 +159,6 @@ ___
   <a href="https://github.com/keiichi"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"> 志賀 慶一 Keiichi Shiga GitHub Organization</a><br>
   <a href="https://www.facebook.com/keiichishiga"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"> 志賀 慶一 Keiichi Shiga Facebook</a> - ✉ You can use Messager<br>
   <a href="https://keiichi-shiga.ovh/">💻 志賀 慶一 Keiichi Shiga</a><br>
-</p>
-
-___
-
-<h2 align="center">🐙 GitHub Page</h2>
-
-<p align="center">
-  As you know, <code>README.md</code> is an <code>index</code> on GitHub Pages.
-</p>
-
-<p align="center">
-<a href="https://iam.balloon.net.eu.org/fu-sen/">https://iam.balloon.net.eu.org/fu-sen/</a> - 
-<a href="https://github.com/fu-sen/fu-sen">https://github.com/fu-sen/fu-sen</a>
-</p>
-
-___
-
-<p align="center">
-  <a href="https://github.com/fu-sen"><strong>🎈 BALLOON | FU-SEN</strong></a> from 🗾 to 🌏<br>
-  <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> 日本語 Japanese<br>
 </p>
 
 ___
