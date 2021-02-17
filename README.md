@@ -1,4 +1,8 @@
 <p align="center">
+  <strong>fu–sen'【ɸɯᵝːseɴ】＝ふうせん(フーセン)＝風船＝balloon(s)＝🎈</strong>
+</p>
+
+<p align="center">
   <a href="https://balloon.asia/">ふうせん🎈 FU-SEN</a> 日本語 Japanese
 </p>
 
