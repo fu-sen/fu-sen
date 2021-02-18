@@ -15,7 +15,7 @@
 
 ___
 
-<h1 align="center" id="i-like-balloons">🎈😍</h1>
+<h1 align="center">🎈😍</h1>
 
 <!--
 Don't have your language?
@@ -153,7 +153,7 @@ ___
 
 ___
 
-<h2 align="center" id="keiichi-shiga">💻 志賀 慶一 Keiichi Shiga</h2>
+<h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
 
 <p align="center">
   My real name is <strong>志賀 慶一 Keiichi Shiga</strong>.
