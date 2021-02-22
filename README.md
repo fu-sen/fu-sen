@@ -141,8 +141,8 @@ ___
 <h2 align="center">🎵 Share music to you</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=c4kZ40AHN7I">
-    <img src="http://img.youtube.com/vi/c4kZ40AHN7I/0.jpg"><br>
+  <a href="https://www.youtube.com/watch?v=xsZiCYKd8oU">
+    <img src="http://img.youtube.com/vi/xsZiCYKd8oU/0.jpg"><br>
     <strong>Denwa Sen (telephone line) / Akiko Yano</strong><br>
     <strong>電話線 / 矢野顕子</strong></a>
 </p>
