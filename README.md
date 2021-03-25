@@ -10,6 +10,7 @@
   <a href="https://fu-sen.bal.gdn/">🎈 GitHub Pages</a> - My additional information<br>
   <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">☎️ BALLON BBS</a> - Telnet BBS<br>
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - BALLOON ふうせん FU-SEN<br>
+  <a href="https://github.com/fu-sen/fu-sen/discussions">🗣️ Discussions</a> - Comprehensive community<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">✉️ Contact</a><br>
 </p>
 
