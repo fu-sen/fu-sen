@@ -1,4 +1,4 @@
-<img src="https://fu-sen.bal.gdn/fu-sen/1280x640.png" width="100%" align="center" alt="🎈 BALLOON | FU-SEN">
+<img src="https://fu-sen.bal.gdn/fu-sen/1280x640.jpg" width="100%" align="center" alt="🎈 BALLOON | FU-SEN">
 
 <p align="center">
   <strong>fu–sen'【ɸɯᵝːseɴ】＝ふうせん(フーセン)＝風船＝balloon(s)＝🎈</strong>
