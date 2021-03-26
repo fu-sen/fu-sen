@@ -7,7 +7,7 @@
   <a href="https://balloon.asia/">🗾 日本語</a>
 </p>
 
-<img src="https://i.balloon.net.eu.org/1280x640.jpg" width="100%" align="center" alt="🎈 BALLOON | FU-SEN">
+<img src="https://i.balloon.net.eu.org/1280x640.jpg" align="center" alt="🎈 BALLOON | FU-SEN">
 
 <p align="center">
   <strong>fu–sen'【ɸɯᵝːseɴ】＝ふうせん(フーセン)＝風船＝balloon(s)＝🎈</strong>
