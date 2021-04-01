@@ -40,7 +40,7 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YIekHZ09u4I&t=756">
+  <a href="https://www.youtube.com/watch?v=YIekHZ09u4I&t=692">
     <img src="http://img.youtube.com/vi/YIekHZ09u4I/0.jpg"><br>
     What are you doing in space !? 😆😅😂</a><br>
 </p>
