@@ -36,8 +36,8 @@ ___
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=CC_c9UJrzdU&t=1027">
-    <img src="http://img.youtube.com/vi/CC_c9UJrzdU/0.jpg"></a><br>
-    Round, round, round, round, round, round, round, round, ... 😅😲😫<br>
+    <img src="http://img.youtube.com/vi/CC_c9UJrzdU/0.jpg"><br>
+    Round, round, round, round, round, round, round, round, ... 😅😲😫</a><br>
 </p>
 
 ___
