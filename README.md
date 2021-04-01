@@ -35,6 +35,11 @@ ___
 <h2 align="center">🚀 I'm crazy about NASA TV (Nasa Live)</h2>
 
 <p align="center">
+  <a href="https://www.nasa.gov/nasalive/">🔗 NASA Live | NASA</a><br>
+  <a href="https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> NASA | YouTube</a><br>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=CC_c9UJrzdU&t=1027">
     <img src="http://img.youtube.com/vi/CC_c9UJrzdU/0.jpg"><br>
     Round, round, round, round, round, round, round, round, ... 😅😲😫</a><br>
