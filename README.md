@@ -35,7 +35,7 @@ ___
 <h2 align="center">🚀 I'm crazy about NASA Movie</h2>
 
 <p align="center">
-  ( 😆💻 )o.🌏🚀.p( 🧀🥞🥔🍜 )←Do you understand this meaning?
+  ( 😆💻 )o.🌏🚀.p( 🧀🥞🥔🍜 )
 </p>
 
 <p align="center">
