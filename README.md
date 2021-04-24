@@ -35,6 +35,10 @@ ___
 <h2 align="center">🚀 I'm crazy about NASA Movie</h2>
 
 <p align="center">
+  ( 😆💻 )o.🌏🚀.p( 🧀🥞🥔🍜 )←Do you understand this meaning?
+</p>
+
+<p align="center">
   <a href="https://www.nasa.gov/nasalive/">🔗 NASA Live | NASA</a><br>
   <a href="https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> NASA | YouTube</a><br>
 </p>
