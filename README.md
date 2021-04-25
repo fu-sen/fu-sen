@@ -56,7 +56,7 @@ ___
 </p>
 
 <p align="center">
-  Je regarde également <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV">ESA Web TV</a> maintenant parce que t becausema est sur l'ISS 🌍😁
+  Je regarde aussi <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV">ESA Web TV</a> car tɔma est sur l'ISS 🌍😁
 </p>
 
 ___
