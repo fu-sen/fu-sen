@@ -62,7 +62,7 @@ ___
 <p align="center">
   <a href="https://www.youtube.com/watch?v=PFlzUY4DcYQ">
     <img src="http://img.youtube.com/vi/PFlzUY4DcYQ/0.jpg"><br>
-    ( 🦖 🌩️≡ )o.💻😆</a><br>
+    Après avoir vu cela, quand je vois un dinosaure, je cherche des ballons de football et des vases. ( 🦖 🌩️≡ )o.💻😆</a><br>
 </p>
 
 
