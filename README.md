@@ -56,12 +56,6 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=DbB2-CCrzO0&t=9804">
-    <img src="http://img.youtube.com/vi/DbB2-CCrzO0/0.jpg"><br>
-    Victor, sorry... 🙇🙏😣</a><br>
-</p>
-
-<p align="center">
   Je regarde aussi <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV">ESA Web TV</a> car tɔma est sur l'ISS 🌍😃<br>
 </p>
 
