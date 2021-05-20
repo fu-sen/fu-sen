@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/fu-sen/fu-sen/wiki">📖 Wiki</a> - Conposite Contents, Instead of my website<br>
-  <a href="https://balloon.tel/">📞 Telnet BBS</a> - [Ballon BBS](https://www.telnetbbsguide.com/bbs/ballon-bbs/) and ふうせんのへや (Balloon's room)<br>
+  <a href="https://balloon.tel/">📞 Telnet BBS</a> - <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">Ballon BBS</a> and ふうせんのへや (Balloon's room)<br>
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - BALLOON ふうせん FU-SEN<br>
   <a href="https://github.com/fu-sen/fu-sen/discussions">💬 Discussions</a> - Comprehensive community<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a><br>
