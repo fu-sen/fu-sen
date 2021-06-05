@@ -84,4 +84,4 @@ ___
   <a href="https://keiichi-shiga.ovh/">💻 志賀 慶一 Keiichi Shiga</a> - 日本語 Japanese<br>
 </p>
 
-<!-- If you can read this, bring me come balloons! 🎈))  😍)) -->
+<!-- If you can read this, bring me come balloons! 🎈)) 😍)) -->
