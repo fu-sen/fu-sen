@@ -1,3 +1,4 @@
+<!-- I deleted the English site that was running on GitHub Pages. This is my English homepage. 🏠😄 -->
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
 <p align="center">
