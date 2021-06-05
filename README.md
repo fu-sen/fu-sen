@@ -1,3 +1,5 @@
+<!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
+
 <p align="center">
   <a href="https://github.com/fu-sen/fu-sen/wiki">📖 Wiki</a> - 
   <a href="https://balloon.tel/">📞 Telnet BBS</a> - 
@@ -88,3 +90,5 @@ ___
     <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
   </small>
 </p>
+
+<!-- If you can read this, bring me come balloons! 🎈))  😍)) -->
