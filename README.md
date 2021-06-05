@@ -83,12 +83,4 @@ ___
   <a href="https://keiichi-shiga.ovh/">💻 志賀 慶一 Keiichi Shiga</a> - 日本語 Japanese<br>
 </p>
 
-___
-
-<p align=center>
-  <small>
-    <a href="https://twemoji.twitter.com/">Twemoji</a>: Graphics licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> - Social preview
-  </small>
-</p>
-
 <!-- If you can read this, bring me come balloons! 🎈))  😍)) -->
