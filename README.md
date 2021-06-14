@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/fu-sen/fu-sen/main/images/1280x640.jpg" align="center" alt="🎈 BALLOON | FU-SEN">
 
 <p align="center">
-  <strong>fu–sen'【ɸɯᵝːseɴ】＝ふうせん(フーセン)＝風船＝balloon(s)＝🎈</strong>
+  <strong>fu–sen' /ɸɯᵝːseɴ/＝ふうせん(フーセン)＝風船＝balloon(s)＝🎈</strong>
 </p>
 
 <p align="center">
