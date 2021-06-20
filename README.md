@@ -38,7 +38,7 @@ ___
 <h2 align="center">🚀 I'm crazy about Space Movie</h2>
 
 <p align="center">
-  ( 🐧～🧀🍪🌮🍜 )o.🐉... 🌏.o( 💻😆 )
+  ( 😺～👓🏆💻 )o.🚀 ( 🐧～🧀🍪🌮🍜 )o.🐉... 🌏.o( 💻😆 )
 </p>
 
 <p align="center">
