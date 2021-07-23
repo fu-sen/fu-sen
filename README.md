@@ -35,41 +35,6 @@
 
 ___
 
-<h2 align="center">🚀 I'm crazy about Space Movie</h2>
-
-<p align="center">
-  ( 😺～👓🏆💻 )o.🚀 ( 🐧～🧀🍪🌮🍜 )o.🐉... 🌏.o( 💻😆 )
-</p>
-
-<p align="center">
-  <a href="https://www.nasa.gov/nasalive/">🔗 NASA Live | NASA</a><br>
-  <a href="https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> NASA | YouTube</a><br>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YIekHZ09u4I&t=692">
-    <img src="http://img.youtube.com/vi/YIekHZ09u4I/0.jpg"><br>
-    What are you doing in space !? 😆😅😂</a><br>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=CC_c9UJrzdU&t=1027">
-    <img src="http://img.youtube.com/vi/CC_c9UJrzdU/0.jpg"><br>
-    NASA spun them around, round, round, round, round and round 😅😲😫</a><br>
-</p>
-
-<p align="center">
-  Je regarde aussi <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV">ESA Web TV</a> car tɔma est sur l'ISS 🌍😃<br>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=PFlzUY4DcYQ">
-    <img src="http://img.youtube.com/vi/PFlzUY4DcYQ/0.jpg"><br>
-    Après avoir vu cela, quand je vois un dinosaure, je cherche des ballons de football et des vases. ( 🦖 🌩️≡ )o.💻😆</a><br>
-</p>
-
-___
-
 <h2 align="center">💻 志賀 慶一 Keiichi Shiga</h2>
 
 <p align="center">
