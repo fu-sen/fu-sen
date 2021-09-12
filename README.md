@@ -2,7 +2,7 @@
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
 <p align="center">
-  <a href="https://balloon.gdn/wiki/">📖 Wiki</a> - 
+  <a href="https://balloon.gdn/">🎈 Links/Wiki</a> - 
   <a href="https://balloon.tel/">📞 BBS</a> - 
   <a href="https://balloon.sbs/balloons/">🌞 Helio</a> - 
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://balloon.gdn/wiki/">📖 Wiki</a> - Conposite Contents, Instead of my website<br>
+  <a href="https://balloon.gdn/">🎈 Links / Wiki</a> - English Home<br>
   <a href="https://balloon.tel/">📞 Telnet BBS</a> - <a href="https://www.telnetbbsguide.com/bbs/ballon-bbs/">Ballon BBS</a> and ふうせんのへや (Balloon's room)<br>
   <a href="https://balloon.sbs/balloons/">🌞 HelioNetworks</a> - HelioHost/HelioNet: balloons<br>
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - BALLOON ふうせん FU-SEN<br>
