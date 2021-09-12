@@ -158,7 +158,7 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 <!-- ロシア語                 -->Я люблю воздушные шары
 </p>
 
-I am in the host country of `Tokyo 2020` and `EXPO 2025 Osaka, Kansai, Japan`.
+<p align="center">I am in the host country of `Tokyo 2020` and `EXPO 2025 Osaka, Kansai, Japan`.</p>
 
 ___
 
