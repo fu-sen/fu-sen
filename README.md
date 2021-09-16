@@ -161,3 +161,15 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 <p align="center">I am in the host country of <code>Tokyo 2020</code> and <code>EXPO 2025 Osaka, Kansai, Japan</code>.</p>
 
 <!-- If you can read this, bring me come balloons! 🎈)) 😍)) -->
+
+___
+
+<h2 align="center">🎵 It's Party Time! 🎹</h2>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=jXMJ6ggSGII">
+<img src="http://img.youtube.com/vi/jXMJ6ggSGII/0.jpg"><br>
+<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Tom & Jerry | It's Party Time! | Classic Cartoon | WB Kids | YouTube</a>
+</p>
+
+
