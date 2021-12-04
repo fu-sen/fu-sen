@@ -160,19 +160,27 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 
 ___
 
-<h2 align="center">🎵 It's Party Time! 🎹🎈</h2>
+<h2 align="center">🍪 Cookie!</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=jXMJ6ggSGII">
-  <img src="http://img.youtube.com/vi/jXMJ6ggSGII/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Tom & Jerry | It's Party Time! | Classic Cartoon | WB Kids | YouTube</a><br>
-  This is a scene from "Saturday Evening Puss".<br>
-  I like music so I can sleep listening to this song.
+  I need to emulate Cookie Monster and apply it to my balloon liking.<br>
+  I learned `Cowabunga` and `Oh, boy` from Cookie Monster, It cannot be translated directly into Japanese.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=NVjlkQ39CIc">
-  <img src="http://img.youtube.com/vi/NVjlkQ39CIc/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Tom & Jerry | Balloon Blowing Party | WB Kids | YouTube</a><br>
-  I should link this party as well. I want lat of rubber balloons with helium.
+  <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
+  <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Sesame Street: Cookie Monster Eating Mashup | YouTube</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=I5e6ftNpGsU">
+  <img src="http://img.youtube.com/vi/I5e6ftNpGsU/0.jpg"><br>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Sesame Street: Cookie Monster: It's Important | YouTube</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gfNalVIrdOw">
+  <img src="http://img.youtube.com/vi/gfNalVIrdOw/0.jpg"><br>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Sesame Street: Cookie Monster's Favorite Shape | YouTube</a>
 </p>
