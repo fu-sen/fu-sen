@@ -164,7 +164,7 @@ ___
 
 <p align="center">
   I need to emulate Cookie Monster and apply it to my balloon liking.<br>
-  I learned `Cowabunga` and `Oh, boy` from Cookie Monster, It cannot be translated directly into Japanese.
+  I learned <code>Cowabunga</code> and <code>Oh, boy</code> from Cookie Monster, It cannot be translated directly into Japanese.
 </p>
 
 <p align="center">
