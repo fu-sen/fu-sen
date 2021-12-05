@@ -168,6 +168,10 @@ ___
 </p>
 
 <p align="center">
+  By the way, **December 5 is cookie day.**
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
   <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Sesame Street: Cookie Monster Eating Mashup | YouTube</a>
