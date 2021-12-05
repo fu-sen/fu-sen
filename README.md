@@ -168,7 +168,7 @@ ___
 </p>
 
 <p align="center">
-  By the way, **December 5 is cookie day.**
+  By the way, <strong>December 5 is cookie day.</strong>
 </p>
 
 <p align="center">
