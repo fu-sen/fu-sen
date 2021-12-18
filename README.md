@@ -167,6 +167,7 @@ ___
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ddjJWYnKbmE">
+  <img src="https://img.youtube.com/vi/ddjJWYnKbmE/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: LIVE! Cookie Monster's Fireside Christmas Yule Log</strong></a>
 </p>
 
