@@ -183,7 +183,7 @@ ___
   <a href="https://www.youtube.com/watch?v=aOBL492A2oI">
   <img src="https://img.youtube.com/vi/aOBL492A2oI/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Cookie Monster Contacts Santa (2/3) | YouTube</strong></a><br>
-  Cookie Monster eats anything other than cookies. He can eat this too.
+  Cookie Monster eats anything, not just cookies. He can eat this too.
 </p>
 
 <!--
