@@ -169,7 +169,7 @@ ___
   <a href="https://www.youtube.com/watch?v=ddjJWYnKbmE">
   <img src="https://img.youtube.com/vi/ddjJWYnKbmE/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: LIVE! Cookie Monster's Fireside Christmas Yule Log | YouTube</strong></a><br>
-  I feel the happiness of Cookie Monster. Nom nom nom... Zzz...
+  I feel the happiness of Cookie Monster. Nom nom nom... zzz...
 </p>
 
 <p align="center">
