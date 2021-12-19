@@ -168,9 +168,25 @@ ___
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ddjJWYnKbmE">
   <img src="https://img.youtube.com/vi/ddjJWYnKbmE/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: LIVE! Cookie Monster's Fireside Christmas Yule Log | YouTube</strong></a>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: LIVE! Cookie Monster's Fireside Christmas Yule Log | YouTube</strong></a><br>
+  I sometimes dream of balloons, but I can't eat them. 🎈😆
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=V-fRbNNecpY">
+  <img src="https://img.youtube.com/vi/V-fRbNNecpY/0.jpg"><br>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Sesame Street: Fireside Christmas Story with Cookie Monster | YouTube</strong></a><br>
+  A video related to the live above. This was already created before.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aOBL492A2oI">
+  <img src="https://img.youtube.com/vi/aOBL492A2oI/0.jpg"><br>
+  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Cookie Monster Contacts Santa (2/3) | YouTube</strong></a>
+  Cookie Monster eats anything other than cookies. He can eat this too.
+</p>
+
+<!--
 <p align="center">
   <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
   <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
@@ -188,3 +204,4 @@ ___
   <img src="http://img.youtube.com/vi/gfNalVIrdOw/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> Sesame Street: Cookie Monster's Favorite Shape | YouTube</a>
 </p>
+-->
