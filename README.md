@@ -155,33 +155,3 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 <p align="center">I am in the host country of <code>Tokyo 2020</code> and <code>EXPO 2025 Osaka, Kansai, Japan</code>.</p>
 
 <!-- If you can read this, bring me come balloons! 🎈)) 😍)) -->
-
-___
-
-<h2 align="center">🍪 Cookie! nom nom nom...</h2>
-
-<p align="center">
-  I need to emulate Cookie Monster and apply it to my balloon liking.<br>
-  I learned <code>Cowabunga</code> from Cookie Monster, It cannot be translated directly into Japanese.
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
-  <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Cookie Monster Eating Mashup | YouTube</strong></a><br>
- Om nom nom nom nom nom...
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=I5e6ftNpGsU">
-  <img src="http://img.youtube.com/vi/I5e6ftNpGsU/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Cookie Monster: It's Important | YouTube</strong></a><br>
-  It's Important. Um nom nom nom...
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=aOBL492A2oI">
-  <img src="https://img.youtube.com/vi/aOBL492A2oI/0.jpg"><br>
-  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Cookie Monster Contacts Santa (2/3) | YouTube</strong></a><br>
-  Cookie Monster eats anything, not only cookies. He can eat this too.
-</p>
