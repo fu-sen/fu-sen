@@ -158,7 +158,7 @@ The order is Japanese Katakana Aiueo. (日本語 カタカナ アイウエオ順
 
 ___
 
-<h2 align="center">🍪 Cookie! nom nom nom... 🎄🎅</h2>
+<h2 align="center">🍪 Cookie! nom nom nom...</h2>
 
 <p align="center">
   I need to emulate Cookie Monster and apply it to my balloon liking.<br>
