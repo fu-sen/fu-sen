@@ -169,14 +169,14 @@ ___
   <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
   <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Cookie Monster Eating Mashup | YouTube</strong></a><br>
- Oh nom nom nom nom nom...
+ Om nom nom nom nom nom...
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=I5e6ftNpGsU">
   <img src="http://img.youtube.com/vi/I5e6ftNpGsU/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Cookie Monster: It's Important | YouTube</strong></a><br>
-  It's Important. Uh nom nom nom...
+  It's Important. Um nom nom nom...
 </p>
 
 <p align="center">
