@@ -169,7 +169,7 @@ ___
   <a href="https://www.youtube.com/watch?v=mQE0LQFFn3s">
   <img src="http://img.youtube.com/vi/mQE0LQFFn3s/0.jpg"><br>
   <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> <strong>Sesame Street: Cookie Monster Eating Mashup | YouTube</strong></a><br>
-  Uh nom nom nom nom nom...
+ Oh nom nom nom nom nom...
 </p>
 
 <p align="center">
