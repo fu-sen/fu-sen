@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://balloon.gdn/">🎈 Links/Wiki</a> - 
-  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - 
+  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ">🎥 YouTube</a> - 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
   <a href="https://balloon.asia/">🗾 日本語</a>
 </p>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://balloon.gdn/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
-  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a> - BALLOON ふうせん FU-SEN<br>
+  <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ">🎥 YouTube</a> - BALLOON ふうせん FU-SEN<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
 </p>
 
