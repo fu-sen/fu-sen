@@ -1,6 +1,12 @@
 <!-- I deleted the English site that was running on GitHub Pages. This is my English homepage. 🏠😄 -->
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
+**障害情報(2022/08/29)** 8月28日(日)午前1～2時ごろから イチゴジャム レシピ の参照ができなくなっています。\
+使用している Jimdo ビルダーの障害に該当している事を確認できています。\
+[🔗 障害情報｜一部のクリエイターサイトで閲覧/編集が行えない | Jimdo ジンドゥー](https://www.jimdo.com/jp/2022/08/28/%E9%9A%9C%E5%AE%B3-%E4%B8%80%E9%83%A8%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%B2%E8%A6%A7-%E7%B7%A8%E9%9B%86%E3%81%8C%E8%A1%8C%E3%81%88%E3%81%AA%E3%81%84/)
+
+___
+
 <p align="center">
   <a href="https://balloon.gdn/">🎈 Links/Wiki</a> - 
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ">🎥 YouTube</a> - 
