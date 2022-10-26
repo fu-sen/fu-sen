@@ -2,10 +2,10 @@
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
 <p align="center">
-  <a href="https://balloon.gdn/">🎈 Links/Wiki</a> - 
+  <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ">🎥 YouTube</a> - 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
-  <a href="https://balloon.asia/">🗾 日本語</a>
+  <a href="https://balloon-jp.vercel.app/">🗾 日本語</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/fu-sen/fu-sen/main/images/1280x640.jpg" align="center" alt="🎈 BALLOON | FU-SEN">
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://balloon.gdn/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
+  <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://www.youtube.com/channel/UCQiHxKF-_ggto59lym0ztoQ">🎥 YouTube</a> - BALLOON ふうせん FU-SEN<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
 </p>
 
 <p align="center">
-  <a href="https://balloon.asia/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese
+  <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese
 </p>
 
 ___
