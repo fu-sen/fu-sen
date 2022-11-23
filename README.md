@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 
-  <a href="https://s.balloon.net.eu.org/balloon">💬 Pleroma</a> -
+  <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> -
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
   <a href="https://balloon-jp.vercel.app/">🗾 日本語</a>
 </p>
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
-  <a href="https://s.balloon.net.eu.org/balloon">💬 Pleroma</a> - @balloon@s.balloon.net.eu.org<br>
+  <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> - @balloon@s.balloon.net.eu.org - You can also follow remotely from Mastodon, Misskey, etc.<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
 </p>
 
