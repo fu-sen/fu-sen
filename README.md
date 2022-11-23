@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
   <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> - @balloon@s.balloon.net.eu.org<br>
   You can also follow remotely from 🐘 Mastodon, 😸 Misskey, etc.<br>
-  I don't currently use Twitter. (But that's not his influence. SpaceX is highly rated)<br>
+  I don't currently use Twitter. (But that's not his influence. I like SpaceX)<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
 </p>
 
