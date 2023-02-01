@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
+  <a href="https://](https://discordapp.com/users/274758244017242112)">💬 Discord</a> - 
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 
   <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> -
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
@@ -23,6 +24,7 @@
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
+  <a href="https://](https://discordapp.com/users/274758244017242112)">💬 Discord</a> - balloon#3295<br>
   <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> - @balloon@s.balloon.net.eu.org<br>
   You can also follow remotely from 🐘 Mastodon, 😸 Misskey, etc.<br>
   I don't currently use Twitter. (But that's not his influence. I like SpaceX)<br>
