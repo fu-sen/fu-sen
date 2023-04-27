@@ -5,7 +5,7 @@
   <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> - 
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 
-  <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> -
+  <a href="https://balloon.potp.me/@balloon">🌐 Fediverse</a> -
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
   <a href="https://balloon-jp.vercel.app/">🗾 日本語</a>
 </p>
@@ -25,7 +25,7 @@
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> - balloon#3295<br>
-  <a href="https://s.balloon.net.eu.org/balloon">🦊 Pleroma</a> - @balloon@s.balloon.net.eu.org<br>
+  <a href="https://balloon.potp.me/@balloon">🌐 Fediverse</a> - @balloon@balloon.potp.me<br>
   You can also follow remotely from 🐘 Mastodon, 😸 Misskey, etc.<br>
   I don't currently use Twitter. (But that's not his influence. I like SpaceX)<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
