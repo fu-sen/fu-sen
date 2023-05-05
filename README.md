@@ -26,7 +26,7 @@
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> - balloon#3295<br>
   <a href="https://balloon.potp.me/@balloon">🌐 Fediverse</a> - @balloon@balloon.potp.me<br>
-  You can also follow remotely from 🐘 Mastodon, 😸 Misskey, etc.<br>
+  You can also follow remotely from 🐦 Calckey, 😸 Misskey, 🐘 Mastodon, 🦊 Pleroma, 🅰 Akkoma, etc.<br>
   I don't currently use Twitter. (But that's not his influence. I like SpaceX)<br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
 </p>
