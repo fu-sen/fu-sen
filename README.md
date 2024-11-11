@@ -30,7 +30,7 @@
   <a href="https://bsky.app/profile/xn--ck8h.bsky.social">🦋 Bluesky</a> - @xn--ck8h.bsky.social<br> - 
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> - balloonfusen (balloon#3295)<br>
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 🎈 BALLOON | FU-SEN<br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - If you really use Git, you'll know my email address<br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a><br>
 </p>
 
 <p align="center">
