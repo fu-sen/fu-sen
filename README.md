@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
+  <a href="https://balloon-jp.vercel.app/">🗾 日本語</a> -
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> -
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - 
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - 
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> -
   <a href="https://www.youtube.com/@balloonfu-sen">🎥 YouTube</a> - 
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a> - 
-  <a href="https://balloon-jp.vercel.app/">🗾 日本語</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGMDzLteyeJCsxE6EwGmLngkPAqPCb4dGhljXhRWnh3Ksk1g/viewform?usp=sf_link">📧 Contact</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/fu-sen/fu-sen/main/images/1280x640.jpg" align="center" alt="🎈 BALLOON | FU-SEN">
@@ -25,6 +25,7 @@
 
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
+  <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - @balloon-jp.vercel.app<br>
@@ -34,7 +35,6 @@
 </p>
 
 <p align="center">
-  <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese
 </p>
 
 ___
