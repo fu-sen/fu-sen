@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese<br>
-  <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> - @balloon@misskey.cloud<br>
+  <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Missket, etc.) - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - @balloon-jp.vercel.app<br>
   <a href="https://discordapp.com/users/274758244017242112">💬 Discord</a> - balloonfusen (balloon#3295)<br>
