@@ -19,11 +19,6 @@
 </p>
 
 <p align="center">
-  Once upon a time I flew a balloon. I can't get this balloon anymore.<br>
-  But now I have more balloons in my hand. It's thanks to you.<br>
-</p>
-
-<p align="center">
   <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Misskey, etc.) - @balloon@misskey.cloud<br>
