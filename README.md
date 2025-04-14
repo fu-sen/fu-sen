@@ -2,7 +2,6 @@
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
 <p align="center">
-  <a href="https://balloon-en.vercel.app/">🎈 Links/Wiki</a> - 
   <a href="https://balloon-jp.vercel.app/">🗾 日本語</a> -
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> -
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - 
@@ -19,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://balloon-en.vercel.app/">🎈 BALLOON | FU-SEN</a> - Links / Wiki (English Home)<br>
   <a href="https://balloon-jp.vercel.app/">🗾 ふうせん🎈 FU-SEN</a> - 日本語 Japanese<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Misskey, etc.) - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
