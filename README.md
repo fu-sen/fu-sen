@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://balloonvendor.flounder.online/">🚀 Gemini Capsule</a> (<code>gemini:</code>code> to <code>https:</code>code> proxy, strong>No Google AI!</p>strong>)<br>
+  <a href="https://balloonvendor.flounder.online/">🚀 Gemini Capsule</a> (<code>gemini:</code>code> to <code>https:</code>code> proxy, <strong>No Google AI!</p>strong>)<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Misskey, Pleroma, Threads, etc.) - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - @balloon-jp.vercel.app<br>
