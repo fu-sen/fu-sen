@@ -2,6 +2,7 @@
 <!-- That's an HTML tag that we're not happy with, 💻😫 but that's what I'm doing to center it. 🍽️ -->
 
 <p align="center">
+  <a href="gemini://balloonvendor.flounder.online/">🚀 Gemini Capsule</a> -
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> -
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - 
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - 
@@ -18,6 +19,7 @@
 </p>
 
 <p align="center">
+  <a href="gemini://balloonvendor.flounder.online/">🚀 Gemini Capsule</a> (No Google AI!)<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Misskey, Pleroma, Threads, etc.) - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - @balloon-jp.vercel.app<br>
