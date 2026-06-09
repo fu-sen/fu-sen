@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://balloon.oldcities.org/">💾 balloon.oldcities.org</a> - WWW Alternative Internet Protocol<br>
+  <a href="https://balloon.oldcities.org/">💾 balloon.oldcities.org</a> - WWW Alternative Protocol (gemini: spartan: nex: gopher: finger:)<br>
   <a href="https://misskey.cloud/@balloon">🌐 Fediverse</a> (Mastodon, Misskey, Pleroma, Threads, etc.) - @balloon@misskey.cloud<br>
   <a href="https://njump.me/npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv">⚡️ Nostr</a> - npub1fusenjj0wq8ats2l3ha2xzytee69n8nk9gf87fmfh8dp23x279cqevtwzv<br>
   <a href="https://bsky.app/profile/balloon-jp.vercel.app">🦋 Bluesky</a> - @balloon-jp.vercel.app<br>
